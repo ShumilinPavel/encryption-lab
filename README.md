@@ -1,2 +1,2 @@
-# encryption_lab
+# encryption-lab
 Caesar, Vigenere and Playfair encoder/decoder
